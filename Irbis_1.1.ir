@@ -1,0 +1,77 @@
+Filetype: Bruce IR File
+Version: 1
+# 
+# by morik
+# Android IRBIS MXQ X96 H96 MAX / V88 / TX6 / T95X / T95M Plus / TX3
+#
+name: Power
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 18 E7
+# 
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 08 F7
+# 
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 28 D7
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F AA 55 
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F A8 57
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 68 97
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 02 FD
+# 
+name: HDMI
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F B0 4F
+# 
+name: freze
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 48 
+# 
+name: blank_screen
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 20 DF
+# 
+name: OK
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F AA 55
+# 
+name: Settings
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 80 7F 02 FD
