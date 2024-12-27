@@ -1,0 +1,127 @@
+Filetype: Bruce IR File
+Version: 1
+#
+# by morik
+#
+# use spamm all
+#
+name: Vol_up0
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up1
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up2
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up3
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up4
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up5
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up6
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up7
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up8
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up9
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up10
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up11
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up12
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up13
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_up14
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
