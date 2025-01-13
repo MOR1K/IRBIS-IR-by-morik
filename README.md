@@ -36,6 +36,11 @@ ______
  
         *There are three of them, as you need to press the off button, then press to the left and press ok to confirm the shutdown*
 
+___________
+___________
+
+# Bruce firmware
+
 This project was created for system administrators to check the functionality of the IR port. All for informational and introductory purposes only!!!!!
 
 New version of IRBIS IR 2.1! Big update, New features
