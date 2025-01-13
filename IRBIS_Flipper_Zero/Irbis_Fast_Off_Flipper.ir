@@ -1,0 +1,28 @@
+Filetype: IR signals file
+Version: 1
+# 
+# IRBIS_Fast_Off
+#
+name: Power
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 18 00 00 00
+bits: 32
+value: 80 7F 18 E7
+#
+name: Left
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 47 00 00 00
+bits: 32
+value: 80 7F E2 1D
+#
+name: Ok
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 55 00 00 00
+bits: 32
+value: 80 7F AA 55
