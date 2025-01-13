@@ -73,6 +73,10 @@ ___________
 
        *Use spam all to fast volume up in bruce. If you don't do it through spam, it will take a long time on this firmware. This is a feature of the Bruce firmware.*
 
+_______________________
+
+## Installation instructions are available in README.md which are located inside the folders of the github repository
+
 This project was created for system administrators to check the functionality of the IR port. All for informational and introductory purposes only!!!!!
 
 New version of IRBIS IR 2.1! Big update, New features
