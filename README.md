@@ -4,7 +4,7 @@
 ______
 ______
 ______
-# **This project was created for system administrators to check the functionality of the IR port. All for informational and introductory purposes only!!!!!**
+# **This project was created so that system administrators could test the functionality of the IR port. You can also control the board from your electric multitool if the remote control has been lost. I am not responsible for how these files will be used. I ask you to use them only for the benefit and without harm to others. Everything is done for informational purposes!!**
 ______
 ______
 ______
