@@ -1,0 +1,100 @@
+Filetype: IR signals file
+Version: 1
+# 
+# IRBIS_SmartBoard
+#
+name: Ok
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 55 00 00 00
+bits: 32
+value: 80 7F AA 55
+#
+name: Black_screen
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 04 00 00 00
+bits: 32
+value: 80 7F 20 DF
+#
+name: Freeze
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 12 00 00 00
+bits: 32
+value: 80 7F 48 B7
+#
+name: Power
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 18 00 00 00
+bits: 32
+value: 80 7F 18 E7
+#
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+bits: 32
+value: 80 7F 28 D7
+#
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 10 00 00 00
+bits: 32
+value: 80 7F 08 F7
+#
+name: Right
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 15 00 00 00
+bits: 32
+value: 80 7F A8 57
+#
+name: Down
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 68 00 00 00
+bits: 32
+value: 80 7F 68 97
+#
+name: Left
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 47 00 00 00
+bits: 32
+value: 80 7F E2 1D
+#
+name: Up
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 46 00 00 00
+bits: 32
+value: 80 7F 62 9D
+#
+name: Menu_settings
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 40 00 00 00
+bits: 32
+value: 80 7F 02 FD
+#
+name: Vid_input
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 10 00 00 00
+bits: 32
+value: 80 7F B0 4F
