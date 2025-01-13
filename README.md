@@ -69,9 +69,9 @@ ___________
 > Irbis_Bruce_fast_volume_up.ir
 
 * A simplified version of the main config. Allows you to quickly raise the sound level. This is done because it would have taken a long time on Bruce without this feature, it has onle one functions (but it repeats itself many times):
- + Vol_up
+  + Vol_up
 
-       *Use spam all to fast volume up in bruce. If you don't do it through spam, it will take a long time on this firmware. This is a feature of the Bruce firmware.*
+        *Use spam all to fast volume up in bruce. If you don't do it through spam, it will take a long time on this firmware. This is a feature of the Bruce firmware.*
 
 _______________________
 
