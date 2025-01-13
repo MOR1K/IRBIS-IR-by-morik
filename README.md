@@ -41,6 +41,38 @@ ___________
 
 # Bruce firmware
 
+> Irbis_Bruce_2.1.ir
+
+* This is the main IR config for managing the board. It includes functions:
+  + OK
+  + Black_screen (The screen turns black (analogous to sleep mode))
+  + Freeze (The board does not accept clicks)
+  + Power (Off/On)
+  + Vol_up
+  + Vol_dn
+  + Right
+  + Down
+  + Left
+  + Up
+  + Menu_settings
+  + Vid_input (hdmi/diplay port and more you can choose)
+
+> Irbis_Bruce_fast_off.ir
+
+* A simplified version of the main config. It allows you to turn off the board more conveniently and quickly, it has only three functions:
+  + Power (Off/On)
+  + Left
+  + OK
+  
+        *Use spam all to fast off in bruce. If you don't do it through spam, it will take a long time on this firmware. This is a feature of the Bruce firmware.*
+
+> Irbis_Bruce_fast_volume_up.ir
+
+* A simplified version of the main config. Allows you to quickly raise the sound level. This is done because it would have taken a long time on Bruce without this feature, it has onle one functions (but it repeats itself many times):
+ + Vol_up
+
+       *Use spam all to fast volume up in bruce. If you don't do it through spam, it will take a long time on this firmware. This is a feature of the Bruce firmware.*
+
 This project was created for system administrators to check the functionality of the IR port. All for informational and introductory purposes only!!!!!
 
 New version of IRBIS IR 2.1! Big update, New features
