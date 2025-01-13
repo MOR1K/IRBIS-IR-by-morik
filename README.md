@@ -75,4 +75,4 @@ ___________
 
 _______________________
 
-## Installation instructions are available in README.md which are located inside the folders of the github repository
+## *Installation instructions are available in README.md which are located inside the folders of the github repository*
