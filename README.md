@@ -76,3 +76,20 @@ ___________
 _______________________
 
 ## *Installation instructions are available in README.md which are located inside the folders of the github repository*
+
+______________________
+
+
+<h2 align="center"> mor1k on github :eyes: </h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="210">
+      <a href="https://github.com/MOR1K">
+        <img src=https://avatars.githubusercontent.com/u/108020882?v=4 width="192" height="192" />
+      </a>
+      <br>Github
+    </td>
+  </tr>
+</table>
+</div>
